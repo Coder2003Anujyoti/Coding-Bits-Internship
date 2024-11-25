@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Coding-Bits-Internship/static/css/main.e3f1b34f.css",
+    "main.js": "/Coding-Bits-Internship/static/js/main.c632d844.js",
+    "static/js/453.37753ddd.chunk.js": "/Coding-Bits-Internship/static/js/453.37753ddd.chunk.js",
+    "index.html": "/Coding-Bits-Internship/index.html",
+    "main.e3f1b34f.css.map": "/Coding-Bits-Internship/static/css/main.e3f1b34f.css.map",
+    "main.c632d844.js.map": "/Coding-Bits-Internship/static/js/main.c632d844.js.map",
+    "453.37753ddd.chunk.js.map": "/Coding-Bits-Internship/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3f1b34f.css",
+    "static/js/main.c632d844.js"
+  ]
+}
